@@ -5,5 +5,6 @@ si no quieres crear el archivo y solo quieres visualizarlo también se puede hac
 
 
 ```
-Primero tienes que clonar o descargar este repositorio,una vez descargado lo siguiente será ejecutar este comando 'npm install'.
+Primero tienes que clonar o descargar este repositorio,una vez descargado lo siguiente será ejecutar
+este comando 'npm install'.
 ```
